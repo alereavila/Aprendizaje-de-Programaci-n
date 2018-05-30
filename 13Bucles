@@ -1,0 +1,4 @@
+#TIPO RANGO 
+print()
+for e in range(5):
+	print(e,end=" ")
